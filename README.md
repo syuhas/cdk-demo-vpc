@@ -4,7 +4,7 @@
 
 <code>Installing the AWS CDK toolkit and creating a simple VPC with subnets</code>
 
-A more detailed overview of the project can be [found here]([https://digitalsteve.net/project-cdk](https://digitalsteve.net/projects/cdk) "DigitialSteve.net Projects").
+A more detailed overview of the project can be [found here](https://digitalsteve.net/projects/cdk "DigitialSteve.net Projects").
 
 
 `This is a small project to demonstrate the capabilities of the AWS CDK toolkit. From here we can add any desired AWS resources programmatically.`
